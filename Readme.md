@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stat Tracker<br><br>🌱 I’m currently learning Full Stack Web Development (MERN)<br><br>📫 How to reach me abhaygupta083@gmail.com<br><br>⚡ Fun fact I think I can make work easy for others
+🔭 I’m currently working on my DSA skills<br><br>🌱 I have experience in Full Stack Web Development (MERN)<br><br>📫 How to reach me abhaygupta083@gmail.com<br><br>⚡ Fun fact I think I can make work easy for others
 
 
 ## 🌐 Socials:
